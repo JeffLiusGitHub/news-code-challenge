@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# News Landing Page Code Challenge
+This code challenge is a responsive news landing page that adapts to different screen sizes and orientations. The page is built using React and TypeScript, and is configured with ESLint to enforce code formatting conventions.
+
+## Features
+This news landing page use Responsive design that adapts to different screen sizes and orientations
+
+## Technologies Used
+This project was built using the following technologies:
+
+React: A JavaScript library for building user interfaces
+TypeScript: A superset of JavaScript that adds static typing
+ESLint: A tool for enforcing code formatting conventions
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -11,9 +11,6 @@ const ArticleContainer = styled.div`
 	padding: 10px;
 	min-height: 70px;
 	height: 100%;
-	${tablet({
-		borderBottom: '2px solid #e2e2e2',
-	})};
 `;
 
 const ArticleTitle = styled.h2`
